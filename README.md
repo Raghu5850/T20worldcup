@@ -17,8 +17,6 @@ Track per-player, per-match performance
 
 Perform analytical queries (top scorers, wicket takers, strike rates)
 
-Practice real-world SQL concepts (joins, indexes, procedures, truncate)
-
 ### 🗂 Database Schema
 Tables
 
@@ -57,8 +55,6 @@ Language: SQL
 
 Concepts:
 
-Normalization
-
 Primary & Foreign Keys
 
 Joins
@@ -67,7 +63,6 @@ Aggregate Functions
 
 Indexes
 
-Stored Procedures
 
 #### ⚡ Key Features
 
@@ -76,8 +71,6 @@ Fully normalized relational database design
 Match-wise and player-wise statistics tracking
 
 Optimized leaderboard queries using indexes
-
-Stored procedures for inserting match and player stats
 
 Easy cleanup using TRUNCATE for testing new tournaments
 
@@ -124,8 +117,6 @@ Hands-on experience with relational database design
 Improved understanding of real-world SQL analytics
 
 Learned query optimization using indexes
-
-Practical usage of stored procedures
 
 Built an end-to-end database project
 
