@@ -17,6 +17,10 @@ Track per-player, per-match performance
 
 Perform analytical queries (top scorers, wicket takers, strike rates)
 
+### Project structure or ER (Entity Relationship) Diagram
+<img width="1536" height="1024" alt="ChatGPT Image Feb 6, 2026, 07_07_26 PM" src="https://github.com/user-attachments/assets/cfbce44a-8e30-42a2-b134-943580f61f17" />
+
+
 ### 🗂 Database Schema
 Tables
 
